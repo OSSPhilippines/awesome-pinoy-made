@@ -19,6 +19,7 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
 - [Vue Croppie](#vue-croppie)
 - [Vue Animate CSS](#vue-animate-css)
 - [Vue Image Fallback](#vue-image-fallback)
+- [Vim Makery](#vim-makery)
 
 ----------------------------------------------
 
@@ -110,4 +111,10 @@ Vue image placeholder directive for broken images.
 - [Github](https://github.com/jofftiquez/v-img-fallback)
 - Author: [@jofftiquez](https://github.com/jofftiquez)
 
+## Vim Makery
 
+Do you know about Vim's own :make system? It's great! You can set makeprg to any executable program, so you can use :make not just to run make with a Makefile, but also to run linters, build scripts, task runners, etc.
+
+- [Website](https://github.com/igemnace/vim-makery)
+- [GitHub](https://github.com/igemnace/vim-makery)
+- Author: [@igemnace](https://github.com/igemnace)
