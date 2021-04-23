@@ -20,6 +20,7 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
 - [Vue Animate CSS](#vue-animate-css)
 - [Vue Image Fallback](#vue-image-fallback)
 - [Vim Makery](#vim-makery)
+- [Maya Js](#maya-js)
 
 ----------------------------------------------
 
@@ -118,3 +119,11 @@ Do you know about Vim's own :make system? It's great! You can set makeprg to any
 - [Website](https://github.com/igemnace/vim-makery)
 - [GitHub](https://github.com/igemnace/vim-makery)
 - Author: [@igemnace](https://github.com/igemnace)
+
+## Maya Js
+
+A simple Node.js framework for creating fast and scalable server-side applications.
+
+- [Website](https://github.com/mayajs/maya)
+- [GitHub](https://github.com/mayajs/maya)
+- Author: [@macign](https://github.com/macign)
