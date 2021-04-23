@@ -13,6 +13,8 @@ A collection of libraries, and open-source projects lead by Filipino authors/mai
 - [Vue Breathing Colors](#vue-breathing-colors)
 - [Vue Morphling](vue-morphling)
 - [Vue Croppie](#vue-croppie)
+- [Vue Animate CSS](#vue-animate-css)
+- [Vue Image Fallback](#vue-image-fallback)
 
 ----------------------------------------------
 
@@ -88,5 +90,20 @@ VueCroppie is a [Vue](https://vuejs.org/) 2 wrapper for [Croppie](https://foliot
 - [Github](https://github.com/jofftiquez/vue-croppie)
 - Author: [@jofftiquez](https://github.com/jofftiquez)
 
+## Vue Animate CSS
+
+The easiest to implement Vue directive for Animate.css
+
+- [Website](https://jofftiquez.github.io/v-animate-css/)
+- [Github](https://github.com/jofftiquez/v-animate-css)
+- Author: [@jofftiquez](https://github.com/jofftiquez)
+
+## Vue Image Fallback
+
+Vue image placeholder directive for broken images.
+
+- [Website](https://github.com/jofftiquez/v-img-fallback)
+- [Github](https://github.com/jofftiquez/v-img-fallback)
+- Author: [@jofftiquez](https://github.com/jofftiquez)
 
 
