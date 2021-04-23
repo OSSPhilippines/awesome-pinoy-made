@@ -22,8 +22,8 @@ Stripe Checkout & Elements for Vue.js
 
 A lighweight Node.js client for Paymongo API. As seen on Paymongo's community-made libraries. ❤️
 
-- [Website](https://vuestripe.com)
-- [GitHub](https://github.com/vue-stripe/vue-stripe)
+- [Website](https://jofftiquez.github.io/paymongo/)
+- [GitHub](https://github.com/jofftiquez/paymongo)
 
 ## Vue HTML To Paper
 
