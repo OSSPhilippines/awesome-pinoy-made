@@ -21,6 +21,8 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
 - [Vue Image Fallback](#vue-image-fallback)
 - [Vim Makery](#vim-makery)
 - [Maya Js](#maya-js)
+- [VDashboard](#v-dashboard)
+- [COVID 3D](#covid-3d)
 
 ----------------------------------------------
 
@@ -127,3 +129,20 @@ A simple Node.js framework for creating fast and scalable server-side applicatio
 - [Website](https://github.com/mayajs/maya)
 - [GitHub](https://github.com/mayajs/maya)
 - Author: [@macign](https://github.com/macign)
+
+## V Dashboard
+
+Dashboard starter template built with Vite, Vue 3, Tailwind CSS and TypeScript.
+
+- [Website](https://v-dashboard.vercel.app/)
+- [GitHub](https://github.com/wobsoriano/v-dashboard)
+- Author: [@wobsoriano](https://github.com/wobsoriano)
+
+## COVID 3D
+
+3D visualization of latest data regarding coronavirus cases with time travel.
+
+- [Website](https://github.com/wobsoriano/covid3d)
+- [GitHub](https://github.com/wobsoriano/covid3d)
+- Author: [@wobsoriano](https://github.com/wobsoriano)
+
