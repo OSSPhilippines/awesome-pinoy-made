@@ -9,6 +9,7 @@ A collection of libraries, and open-source projects lead by Filipino authors/mai
 - [Vue HTML To Paper](#vue-html-to-paper)
 - [Vue HTML 2 Canvas](#vue-html-2-canvas)
 - [Vue Wysiwyg](#vue-wysiwyg)
+- [Vue Jitsi Meet](#vue-jitsi-meet)
 
 
 ## Vue Stripe
@@ -45,5 +46,12 @@ A simple wysiwyg editor for Vue.j
 
 - [Website](https://mycurelabs.github.io/vue-wysiwyg/)
 - [GitHub](https://github.com/mycurelabs/vue-wysiwyg)
+
+## Vue Jitsi Meet
+
+Vue component for Jitsi Meet Web Integration via IFrame.
+
+- [Website](https://github.com/mycurelabs/vue-jitsi-meet)
+- [GitHub](https://github.com/mycurelabs/vue-jitsi-meet)
 
 
