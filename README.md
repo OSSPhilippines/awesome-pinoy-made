@@ -24,6 +24,9 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
 - [VDashboard](#v-dashboard)
 - [COVID 3D](#covid-3d)
 - [Sublime Semantic Highlighter](#sublime-semantic-highlighter)
+- [Puzzy Search](#puzzy-search)
+- [Trin DB](#trin-db)
+- [Ink HTML](#ink-html)
 
 ----------------------------------------------
 
@@ -156,3 +159,29 @@ It underlines variables with the same string (for now). Sublime does this by dou
 - [Website](https://github.com/kapitanluffy/sublime-semantic-highlighter)
 - [GitHub](https://github.com/kapitanluffy/sublime-semantic-highlighter)
 - Author: [@wobsoriano](https://github.com/kapitanluffy)
+
+## Puzzy Search
+
+Add google-like search and auto suggest (did you mean...)
+
+- [Website](https://github.com/trinly01/puzzy-search)
+- [GitHub](https://github.com/trinly01/puzzy-search)
+- Author: [@trinly01](https://github.com/trinly01)
+
+## Trin DB
+
+A fast RESTful persistent or in memory NoSQL database (18 KiB only!)
+
+- [Website](https://github.com/trinly01/TrinDB)
+- [GitHub](https://github.com/trinly01/TrinDB)
+- Author: [@trinly01](https://github.com/trinly01)
+
+## Ink HTML
+
+Prints a specific area/element of your html page for any frontend framework
+
+- [Website](https://github.com/trinly01/ink-html)
+- [GitHub](https://github.com/trinly01/ink-html)
+- Author: [@trinly01](https://github.com/trinly01)
+
+
