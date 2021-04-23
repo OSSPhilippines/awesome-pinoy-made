@@ -1,6 +1,10 @@
 # Pinoy Made 🇵🇭
 
-A collection of libraries, and open-source projects lead by Filipino authors/maintainers.
+A collection of libraries, and open-source projects made by Filipino authors/maintainers. The goal of this list is to highlight awesome pinoy-made projects.
+
+# Before you jump in:
+
+1. Read the [contributing guide](https://github.com/oss-ph/pinoy-made/blob/main/CONTRIBUTING.md).
 
 # Table of contents
 
