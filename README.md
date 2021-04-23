@@ -12,6 +12,7 @@ A collection of libraries, and open-source projects lead by Filipino authors/mai
 - [Vue Jitsi Meet](#vue-jitsi-meet)
 - [Vue Breathing Colors](#vue-breathing-colors)
 - [Vue Morphling](vue-morphling)
+- [Vue Croppie](#vue-croppie)
 
 ----------------------------------------------
 
@@ -77,6 +78,14 @@ A collection of standard and custom VueJs filters and directives. It's MORPHLING
 
 - [Website](https://jofftiquez.github.io/vue-morphling)
 - [Github](https://github.com/jofftiquez/vue-morphling)
+- Author: [@jofftiquez](https://github.com/jofftiquez)
+
+## Vue Croppie
+
+VueCroppie is a [Vue](https://vuejs.org/) 2 wrapper for [Croppie](https://foliotek.github.io/Croppie/) a beautiful photo cropping tool for Javascript by [foliotek](http://www.foliotek.com/).
+
+- [Website](https://jofftiquez.github.io/vue-croppie/)
+- [Github](https://github.com/jofftiquez/vue-croppie)
 - Author: [@jofftiquez](https://github.com/jofftiquez)
 
 
