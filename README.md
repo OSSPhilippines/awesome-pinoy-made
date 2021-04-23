@@ -10,6 +10,7 @@ A collection of libraries, and open-source projects lead by Filipino authors/mai
 - [Vue HTML 2 Canvas](#vue-html-2-canvas)
 - [Vue Wysiwyg](#vue-wysiwyg)
 - [Vue Jitsi Meet](#vue-jitsi-meet)
+- [Vue Breathing Colors](#vue-breathing-colors)
 
 
 ## Vue Stripe
@@ -54,4 +55,10 @@ Vue component for Jitsi Meet Web Integration via IFrame.
 - [Website](https://github.com/mycurelabs/vue-jitsi-meet)
 - [GitHub](https://github.com/mycurelabs/vue-jitsi-meet)
 
+## Vue Breathing Colors
+
+Vue Breathing Colors is a vue directive used to change background color of any component in a "breathing like" manner.
+
+- [Website](https://mycurelabs.github.io/vue-breathing-colors)
+- [GitHub](https://github.com/mycurelabs/vue-breathing-colors)
 
