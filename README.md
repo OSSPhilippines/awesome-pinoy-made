@@ -23,6 +23,7 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
 - [Maya Js](#maya-js)
 - [VDashboard](#v-dashboard)
 - [COVID 3D](#covid-3d)
+- [Sublime Semantic Highlighter](#sublime-semantic-highlighter)
 
 ----------------------------------------------
 
@@ -146,3 +147,12 @@ Dashboard starter template built with Vite, Vue 3, Tailwind CSS and TypeScript.
 - [GitHub](https://github.com/wobsoriano/covid3d)
 - Author: [@wobsoriano](https://github.com/wobsoriano)
 
+## Sublime Semantic Highlighter
+
+🌈 Highlights similar variables on focus
+
+It underlines variables with the same string (for now). Sublime does this by double-clicking a word but why do two if you can do one!
+
+- [Website](https://github.com/kapitanluffy/sublime-semantic-highlighter)
+- [GitHub](https://github.com/kapitanluffy/sublime-semantic-highlighter)
+- Author: [@wobsoriano](https://github.com/kapitanluffy)
