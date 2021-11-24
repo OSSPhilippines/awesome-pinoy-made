@@ -27,6 +27,7 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
 - [Puzzy Search](#puzzy-search)
 - [Trin DB](#trin-db)
 - [Ink HTML](#ink-html)
+- [Sentro](#sentro)
 
 ----------------------------------------------
 
@@ -184,4 +185,10 @@ Prints a specific area/element of your html page for any frontend framework
 - [GitHub](https://github.com/trinly01/ink-html)
 - Author: [@trinly01](https://github.com/trinly01)
 
+## Sentro
 
+A low-level SCSS library for building and managing token-driven design systems.
+
+- [Website](https://docs.matteusan.me/docs/sentro)
+- [GitHub](https://github.com/MatteuSan/sentro)
+- Author: [@MatteuSan](https://matteusan.me)
