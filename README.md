@@ -28,6 +28,7 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
 - [Trin DB](#trin-db)
 - [Ink HTML](#ink-html)
 - [Sentro](#sentro)
+- [PyFyre](#pyfyre)
 
 ----------------------------------------------
 
@@ -192,3 +193,11 @@ A low-level SCSS library for building and managing token-driven design systems.
 - [Website](https://docs.matteusan.me/docs/sentro)
 - [GitHub](https://github.com/MatteuSan/sentro)
 - Author: [@MatteuSan](https://matteusan.me)
+
+## PyFyre
+
+The first web frontend framework for building reactive static user interfaces on the web using Python.
+
+- [Website](https://pyfyre.netlify.app)
+- [GitHub](https://github.com/pyfyre/pyfyre)
+- Author: [@jabsborja](https://jabezborja.ga)
