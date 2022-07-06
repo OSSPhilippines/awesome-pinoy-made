@@ -29,6 +29,8 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
 - [Ink HTML](#ink-html)
 - [Sentro](#sentro)
 - [PyFyre](#pyfyre)
+- [Vex](#vex)
+- [V Language Server (VLS)](#v-language-server-vls)
 
 ----------------------------------------------
 
@@ -201,3 +203,18 @@ The first web frontend framework for building reactive static user interfaces on
 - [Website](https://pyfyre.netlify.app)
 - [GitHub](https://github.com/pyfyre/pyfyre)
 - Author: [@jabsborja](https://jabezborja.ga)
+
+## Vex
+
+A simple yet modular web framework built for the [V programming language](https://github.com/vlang/v).
+
+- [Website](https://nedpals.github.io/vex)
+- [GitHub](https://github.com/nedpals/vex)
+- Author: [@nedpals](https://github.com/nedpals)
+
+## V Language Server (VLS)
+
+A language server providing IDE-like features such autocompletion, formatting, and etc. for the [V programming language](https://github.com/vlang/v).
+
+- [GitHub](https://github.com/vlang/vls)
+- Author: [@nedpals](https://github.com/nedpals)
