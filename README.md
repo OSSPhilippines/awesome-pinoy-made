@@ -31,6 +31,7 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
 - [PyFyre](#pyfyre)
 - [Vex](#vex)
 - [V Language Server (VLS)](#v-language-server-vls)
+- [esbuild-jest](#esbuild-jest)
 
 ----------------------------------------------
 
@@ -218,3 +219,10 @@ A language server providing IDE-like features such autocompletion, formatting, a
 
 - [GitHub](https://github.com/vlang/vls)
 - Author: [@nedpals](https://github.com/nedpals)
+
+## esbuild-jest
+
+A Jest transformer using esbuild
+
+- [GitHub](https://github.com/aelbore/esbuild-jest)
+- Author: [@aelbore](https://github.com/aelbore)
