@@ -163,7 +163,7 @@ It underlines variables with the same string (for now). Sublime does this by dou
 
 - [Website](https://github.com/kapitanluffy/sublime-semantic-highlighter)
 - [GitHub](https://github.com/kapitanluffy/sublime-semantic-highlighter)
-- Author: [@wobsoriano](https://github.com/kapitanluffy)
+- Author: [@kapitanluffy](https://github.com/kapitanluffy)
 
 ## Puzzy Search
 
