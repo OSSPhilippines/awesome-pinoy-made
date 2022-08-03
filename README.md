@@ -32,6 +32,7 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
 - [Vex](#vex)
 - [V Language Server (VLS)](#v-language-server-vls)
 - [esbuild-jest](#esbuild-jest)
+- [Pixel To Rem Converter](#pixel-to-rem-vs-code-extension)
 
 ----------------------------------------------
 
@@ -226,3 +227,11 @@ A Jest transformer using esbuild
 
 - [GitHub](https://github.com/aelbore/esbuild-jest)
 - Author: [@aelbore](https://github.com/aelbore)
+
+## pixel-to-rem-vs-code-extension
+
+A VS Code extension that converts pixels to a more dynamic unit like rem.
+
+- [Website](https://marketplace.visualstudio.com/items?itemName=LAGS.pixel-to-rem-converter)
+- [GitHub]([https://github.com/aelbore/esbuild-jest](https://github.com/rhen99/pixel-to-rem-vs-code-extension))
+- Author: [@rhen99](https://github.com/rhen99)
