@@ -32,6 +32,7 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
 - [Vex](#vex)
 - [V Language Server (VLS)](#v-language-server-vls)
 - [esbuild-jest](#esbuild-jest)
+- [Minimalist Dev Portfolio](#minimalist-dev-portfolio)
 
 ----------------------------------------------
 
@@ -226,3 +227,9 @@ A Jest transformer using esbuild
 
 - [GitHub](https://github.com/aelbore/esbuild-jest)
 - Author: [@aelbore](https://github.com/aelbore)
+
+## minimalist-dev-portfolio
+A minimalist portfolio template for Developers
+
+- [GitHub](https://github.com/elwynynion/Minimalist-Dev-Portfolio)
+- Author: [@elwyn](https://github.com/elwynynion)
