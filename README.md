@@ -43,6 +43,7 @@ Stripe Checkout & Elements for Vue.js
 - [Website](https://vuestripe.com)
 - [GitHub](https://github.com/vue-stripe/vue-stripe)
 - Author: [@jofftiquez](https://github.com/jofftiquez)
+- Twitter: [@jrtiquez](https://twitter.com/jrtiquez) 
 
 ## Paymongo Node.js
 
@@ -51,6 +52,7 @@ A lighweight Node.js client for Paymongo API. As seen on Paymongo's community-ma
 - [Website](https://jofftiquez.github.io/paymongo/)
 - [GitHub](https://github.com/jofftiquez/paymongo)
 - Author: [@jofftiquez](https://github.com/jofftiquez)
+- Twitter: [@jrtiquez](https://twitter.com/jrtiquez) 
 
 ## Vue HTML To Paper
 
@@ -59,6 +61,7 @@ Vue mixin for paper printing html elements.
 - [Website](https://mycurelabs.github.io/vue-html-to-paper/)
 - [GitHub](https://github.com/mycurelabs/vue-html-to-paper)
 - Author: [MYCURE Inc.](https://mycure.md)
+ 
 
 ## Vue HTML 2 Canvas
 
@@ -99,6 +102,7 @@ A collection of standard and custom VueJs filters and directives. It's MORPHLING
 - [Website](https://jofftiquez.github.io/vue-morphling)
 - [Github](https://github.com/jofftiquez/vue-morphling)
 - Author: [@jofftiquez](https://github.com/jofftiquez)
+- Twitter: [@jrtiquez](https://twitter.com/jrtiquez) 
 
 ## Vue Croppie
 
@@ -107,6 +111,7 @@ VueCroppie is a [Vue](https://vuejs.org/) 2 wrapper for [Croppie](https://foliot
 - [Website](https://jofftiquez.github.io/vue-croppie/)
 - [Github](https://github.com/jofftiquez/vue-croppie)
 - Author: [@jofftiquez](https://github.com/jofftiquez)
+- Twitter: [@jrtiquez](https://twitter.com/jrtiquez) 
 
 ## Vue Animate CSS
 
@@ -115,6 +120,7 @@ The easiest to implement Vue directive for Animate.css
 - [Website](https://jofftiquez.github.io/v-animate-css/)
 - [Github](https://github.com/jofftiquez/v-animate-css)
 - Author: [@jofftiquez](https://github.com/jofftiquez)
+- Twitter: [@jrtiquez](https://twitter.com/jrtiquez) 
 
 ## Vue Image Fallback
 
@@ -123,6 +129,7 @@ Vue image placeholder directive for broken images.
 - [Website](https://github.com/jofftiquez/v-img-fallback)
 - [Github](https://github.com/jofftiquez/v-img-fallback)
 - Author: [@jofftiquez](https://github.com/jofftiquez)
+- Twitter: [@jrtiquez](https://twitter.com/jrtiquez) 
 
 ## Vim Makery
 
