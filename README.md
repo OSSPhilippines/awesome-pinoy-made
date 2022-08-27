@@ -33,6 +33,7 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
 - [V Language Server (VLS)](#v-language-server-vls)
 - [esbuild-jest](#esbuild-jest)
 - [Minimalist Dev Portfolio](#minimalist-dev-portfolio)
+- [Flutter Country Code Picker](#flutter-country-code-picker)
 
 ----------------------------------------------
 
@@ -251,3 +252,11 @@ A minimalist portfolio template for Developers
 
 - [GitHub](https://github.com/elwynynion/Minimalist-Dev-Portfolio)
 - Author: [@elwyn](https://github.com/elwynynion)
+
+## Flutter Country Code Picker
+
+A Flutter package for showing a modal that contains country dial code. The user can also search for the available codes and select right from the modal.
+
+- [Website](https://pub.dev/packages/fl_country_code_picker)
+- [GitHub](https://github.com/fernan542/fl_country_code_picker)
+- Author: [@fbuan](https://github.com/fernan542)
