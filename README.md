@@ -61,7 +61,7 @@ Vue mixin for paper printing html elements.
 - [Website](https://mycurelabs.github.io/vue-html-to-paper/)
 - [GitHub](https://github.com/mycurelabs/vue-html-to-paper)
 - Author: [MYCURE Inc.](https://mycure.md)
- 
+- Twitter: [@mycureapp](https://twitter.com/mycureapp)
 
 ## Vue HTML 2 Canvas
 
@@ -70,6 +70,7 @@ Vue mixin for Html2Canvas
 - [Website](https://github.com/mycurelabs/vue-html2canvas)
 - [GitHub](https://github.com/mycurelabs/vue-html2canvas)
 - Author: [MYCURE Inc.](https://mycure.md)
+- Twitter: [@mycureapp](https://twitter.com/mycureapp)
 
 ## Vue Wysiwyg
 
@@ -78,6 +79,7 @@ A simple wysiwyg editor for Vue.j
 - [Website](https://mycurelabs.github.io/vue-wysiwyg/)
 - [GitHub](https://github.com/mycurelabs/vue-wysiwyg)
 - Author: [MYCURE Inc.](https://mycure.md)
+- Twitter: [@mycureapp](https://twitter.com/mycureapp)
 
 ## Vue Jitsi Meet
 
@@ -86,6 +88,7 @@ Vue component for Jitsi Meet Web Integration via IFrame.
 - [Website](https://github.com/mycurelabs/vue-jitsi-meet)
 - [GitHub](https://github.com/mycurelabs/vue-jitsi-meet)
 - Author: [MYCURE Inc.](https://mycure.md)
+- Twitter: [@mycureapp](https://twitter.com/mycureapp)
 
 ## Vue Breathing Colors
 
@@ -94,6 +97,7 @@ Vue Breathing Colors is a vue directive used to change background color of any c
 - [Website](https://mycurelabs.github.io/vue-breathing-colors)
 - [GitHub](https://github.com/mycurelabs/vue-breathing-colors)
 - Author: [MYCURE Inc.](https://mycure.md)
+- Twitter: [@mycureapp](https://twitter.com/mycureapp)
 
 ## Vue Morphling
 
@@ -154,6 +158,7 @@ Dashboard starter template built with Vite, Vue 3, Tailwind CSS and TypeScript.
 - [Website](https://v-dashboard.vercel.app/)
 - [GitHub](https://github.com/wobsoriano/v-dashboard)
 - Author: [@wobsoriano](https://github.com/wobsoriano)
+- Twitter: [@wobsoriano](https://twitter.com/wobsoriano)
 
 ## COVID 3D
 
@@ -162,6 +167,7 @@ Dashboard starter template built with Vite, Vue 3, Tailwind CSS and TypeScript.
 - [Website](https://github.com/wobsoriano/covid3d)
 - [GitHub](https://github.com/wobsoriano/covid3d)
 - Author: [@wobsoriano](https://github.com/wobsoriano)
+- Twitter: [@wobsoriano](https://twitter.com/wobsoriano)
 
 ## Sublime Semantic Highlighter
 
@@ -172,6 +178,7 @@ It underlines variables with the same string (for now). Sublime does this by dou
 - [Website](https://github.com/kapitanluffy/sublime-semantic-highlighter)
 - [GitHub](https://github.com/kapitanluffy/sublime-semantic-highlighter)
 - Author: [@kapitanluffy](https://github.com/kapitanluffy)
+- Twitter: [@kapitanluffy](https://twitter.com/kapitanluffy)
 
 ## Puzzy Search
 
@@ -204,6 +211,7 @@ A low-level SCSS library for building and managing token-driven design systems.
 - [Website](https://docs.matteusan.me/docs/sentro)
 - [GitHub](https://github.com/MatteuSan/sentro)
 - Author: [@MatteuSan](https://matteusan.me)
+- Twitter: [@matteusan](https://twitter.com/matteusan)
 
 ## PyFyre
 
@@ -220,6 +228,7 @@ A simple yet modular web framework built for the [V programming language](https:
 - [Website](https://nedpals.github.io/vex)
 - [GitHub](https://github.com/nedpals/vex)
 - Author: [@nedpals](https://github.com/nedpals)
+- Twitter: [@npned](https://twitter.com/npned)
 
 ## V Language Server (VLS)
 
@@ -227,6 +236,7 @@ A language server providing IDE-like features such autocompletion, formatting, a
 
 - [GitHub](https://github.com/vlang/vls)
 - Author: [@nedpals](https://github.com/nedpals)
+- Twitter: [@npned](https://twitter.com/npned)
 
 ## esbuild-jest
 
@@ -234,6 +244,7 @@ A Jest transformer using esbuild
 
 - [GitHub](https://github.com/aelbore/esbuild-jest)
 - Author: [@aelbore](https://github.com/aelbore)
+- Twitter: [@VirtualOverride](https://twitter.com/VirtualOverride)
 
 ## minimalist-dev-portfolio
 A minimalist portfolio template for Developers
