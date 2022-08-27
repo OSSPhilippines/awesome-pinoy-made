@@ -150,7 +150,8 @@ A simple Node.js framework for creating fast and scalable server-side applicatio
 
 - [Website](https://github.com/mayajs/maya)
 - [GitHub](https://github.com/mayajs/maya)
-- Author: [@macign](https://github.com/macign)
+- Author: [@mackignacio](https://github.com/mackignacio)
+- Twitter: [@IgnacioMack](https://twitter.com/IgnacioMack)
 
 ## V Dashboard
 
@@ -188,6 +189,7 @@ Add google-like search and auto suggest (did you mean...)
 - [Website](https://github.com/trinly01/puzzy-search)
 - [GitHub](https://github.com/trinly01/puzzy-search)
 - Author: [@trinly01](https://github.com/trinly01)
+- Twitter: [@trinly01](https://twitter.com/trinly01)
 
 ## Trin DB
 
@@ -196,6 +198,7 @@ A fast RESTful persistent or in memory NoSQL database (18 KiB only!)
 - [Website](https://github.com/trinly01/TrinDB)
 - [GitHub](https://github.com/trinly01/TrinDB)
 - Author: [@trinly01](https://github.com/trinly01)
+- Twitter: [@trinly01](https://twitter.com/trinly01)
 
 ## Ink HTML
 
@@ -204,6 +207,7 @@ Prints a specific area/element of your html page for any frontend framework
 - [Website](https://github.com/trinly01/ink-html)
 - [GitHub](https://github.com/trinly01/ink-html)
 - Author: [@trinly01](https://github.com/trinly01)
+- Twitter: [@trinly01](https://twitter.com/trinly01)
 
 ## Sentro
 
@@ -221,6 +225,7 @@ The first web frontend framework for building reactive static user interfaces on
 - [Website](https://pyfyre.netlify.app)
 - [GitHub](https://github.com/pyfyre/pyfyre)
 - Author: [@jabsborja](https://jabezborja.ga)
+- Twitter: [@jabeztorre](https://twitter.com/jabeztorre)
 
 ## Vex
 
