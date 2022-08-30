@@ -8,32 +8,39 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
 
 # Table of contents
 
-- [Vue Stripe](#vue-stripe)
-- [Paymongo Node.js](#paymongo-nodejs)
-- [Vue HTML To Paper](#vue-html-to-paper)
-- [Vue HTML 2 Canvas](#vue-html-2-canvas)
-- [Vue Wysiwyg](#vue-wysiwyg)
-- [Vue Jitsi Meet](#vue-jitsi-meet)
-- [Vue Breathing Colors](#vue-breathing-colors)
-- [Vue Morphling](vue-morphling)
-- [Vue Croppie](#vue-croppie)
-- [Vue Animate CSS](#vue-animate-css)
-- [Vue Image Fallback](#vue-image-fallback)
-- [Vim Makery](#vim-makery)
-- [Maya Js](#maya-js)
-- [VDashboard](#v-dashboard)
-- [COVID 3D](#covid-3d)
-- [Sublime Semantic Highlighter](#sublime-semantic-highlighter)
-- [Puzzy Search](#puzzy-search)
-- [Trin DB](#trin-db)
-- [Ink HTML](#ink-html)
-- [Sentro](#sentro)
-- [PyFyre](#pyfyre)
-- [Vex](#vex)
-- [V Language Server (VLS)](#v-language-server-vls)
-- [esbuild-jest](#esbuild-jest)
-- [Minimalist Dev Portfolio](#minimalist-dev-portfolio)
-- [Flutter Country Code Picker](#flutter-country-code-picker)
+- [Pinoy Made 🇵🇭](#pinoy-made-)
+- [Before you jump in:](#before-you-jump-in)
+- [Table of contents](#table-of-contents)
+  - [Vue Stripe](#vue-stripe)
+  - [Paymongo Node.js](#paymongo-nodejs)
+  - [Vue HTML To Paper](#vue-html-to-paper)
+  - [Vue HTML 2 Canvas](#vue-html-2-canvas)
+  - [Vue Wysiwyg](#vue-wysiwyg)
+  - [Vue Jitsi Meet](#vue-jitsi-meet)
+  - [Vue Breathing Colors](#vue-breathing-colors)
+  - [Vue Morphling](#vue-morphling)
+  - [Vue Croppie](#vue-croppie)
+  - [Vue Animate CSS](#vue-animate-css)
+  - [Vue Image Fallback](#vue-image-fallback)
+  - [Vim Makery](#vim-makery)
+  - [Maya Js](#maya-js)
+  - [V Dashboard](#v-dashboard)
+  - [COVID 3D](#covid-3d)
+  - [Sublime Semantic Highlighter](#sublime-semantic-highlighter)
+  - [Puzzy Search](#puzzy-search)
+  - [Trin DB](#trin-db)
+  - [Ink HTML](#ink-html)
+  - [Sentro](#sentro)
+  - [PyFyre](#pyfyre)
+  - [Vex](#vex)
+  - [V Language Server (VLS)](#v-language-server-vls)
+  - [esbuild-jest](#esbuild-jest)
+  - [minimalist-dev-portfolio](#minimalist-dev-portfolio)
+  - [Flutter Country Code Picker](#flutter-country-code-picker)
+  - [BuyMeaCoffee.js](#buymeacoffeejs)
+  - [GatherTown.js](#gathertownjs)
+  - [CSS Text Portrait Builder](#css-text-portrait-builder)
+  - [COVID19 Tracker CLI](#covid19-tracker-cli)
 
 ----------------------------------------------
 
@@ -265,3 +272,39 @@ A Flutter package for showing a modal that contains country dial code. The user 
 - [Website](https://pub.dev/packages/fl_country_code_picker)
 - [GitHub](https://github.com/fernan542/fl_country_code_picker)
 - Author: [@fbuan](https://github.com/fernan542)
+
+## BuyMeaCoffee.js
+
+Simple and lightweight community contributed JavaScript SDK for Buy Me a Coffee REST API.
+
+- [Website](https://buymeacoffee.js.org)
+- [GitHub](https://github.com/warengonzaga/buymeacoffee.js)
+- Author: [@warengonzaga](https://github.com/warengonzaga)
+- Twitter [@warengonzaga](https://twitter.com/warengonzaga)
+
+## GatherTown.js
+
+Simple and lightweight community contributed JavaScript/Typescript SDK for Gather Town's HTTPS and WebSocket APIs.
+
+- [Website](https://gathertown.js.org)
+- [GitHub](https://github.com/warengonzaga/gathertown.js)
+- Author: [@warengonzaga](https://github.com/warengonzaga)
+- Twitter: [@warengonzaga](https://twitter.com/warengonzaga)
+
+##  CSS Text Portrait Builder
+
+A popular pure CSS text portrait builder for your loved ones.
+
+- [Website](https://css-text-portrait-builder.vercel.app/)
+- [GitHub](https://github.com/warengonzaga/css-text-portrait-builder)
+- Author: [@warengonzaga](https://github.com/warengonzaga)
+- Twitter: [@warengonzaga](https://twitter.com/warengonzaga)
+
+## COVID19 Tracker CLI
+
+A console-oriented COVID-19 tracker with real-time updates for your favorite terminal.
+
+- [Website](https://covid19-cli.wareneutron.com)
+- [GitHub](https://github.com/wareneutron/covid19-tracker-cli)
+- Author: [@warengonzaga](https://github.com/warengonzaga)
+- Twitter: [@warengonzaga](https://twitter.com/warengonzaga)
