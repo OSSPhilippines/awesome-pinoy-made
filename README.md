@@ -41,6 +41,7 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
   - [GatherTown.js](#gathertownjs)
   - [CSS Text Portrait Builder](#css-text-portrait-builder)
   - [COVID19 Tracker CLI](#covid19-tracker-cli)
+  - [Likha CMS](#likha-cms)
 
 ----------------------------------------------
 
@@ -308,3 +309,12 @@ A console-oriented COVID-19 tracker with real-time updates for your favorite ter
 - [GitHub](https://github.com/wareneutron/covid19-tracker-cli)
 - Author: [@warengonzaga](https://github.com/warengonzaga)
 - Twitter: [@warengonzaga](https://twitter.com/warengonzaga)
+
+## Likha CMS
+
+Add google-like search and auto suggest (did you mean...)
+
+- [Website](https://likhacms.github.io/index.html#top)
+- [GitHub](https://github.com/likhaCMS)
+- Author: [@trinly01](https://github.com/trinly01)
+- Twitter: [@trinly01](https://twitter.com/trinly01)
