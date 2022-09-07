@@ -42,6 +42,7 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
   - [CSS Text Portrait Builder](#css-text-portrait-builder)
   - [COVID19 Tracker CLI](#covid19-tracker-cli)
   - [Likha CMS](#likha-cms)
+  - [Liso Password Manager (NexPass)](#liso-password-manager-nexpass)
 
 ----------------------------------------------
 
@@ -318,3 +319,12 @@ Add google-like search and auto suggest (did you mean...)
 - [GitHub](https://github.com/likhaCMS)
 - Author: [@trinly01](https://github.com/trinly01)
 - Twitter: [@trinly01](https://twitter.com/trinly01)
+
+## Liso Password Manager (NexPass)
+
+Protect your valuable data from prying eyes. Liso's secure data vault is the perfect place to store passwords, files and any other information you need to keep safe.
+
+- [Website](https://liso.dev)
+- [GitHub](https://github.com/Liso-Vault/app)
+- Author: [@oliverbytes](https://github.com/oliverbytes)
+- Twitter: [@oliverbytes](https://twitter.com/oliverbytes)
