@@ -43,6 +43,7 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
   - [COVID19 Tracker CLI](#covid19-tracker-cli)
   - [Likha CMS](#likha-cms)
   - [Liso Password Manager (NexPass)](#liso-password-manager-nexpass)
+  - [Simtex](#simtex)
 
 ----------------------------------------------
 
@@ -328,3 +329,10 @@ Protect your valuable data from prying eyes. Liso's secure data vault is the per
 - [GitHub](https://github.com/Liso-Vault/app)
 - Author: [@oliverbytes](https://github.com/oliverbytes)
 - Twitter: [@oliverbytes](https://twitter.com/oliverbytes)
+
+## Simtex
+
+Convert your markdown or text files into LaTeX/pdf with one command! simtex (simplified LaTeX) allows you to convert your mardown or text files into PDF using LaTeX with one command, configured with simple `.json` file.
+
+- [Github](https://github.com/iaacornus/simtex)
+- Author: [@iaacornus](https://github.com/iaacornus)
