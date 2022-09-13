@@ -1,4 +1,4 @@
-# Pinoy Made 🇵🇭
+# Pinoy-Made 🇵🇭
 
 A collection of libraries, and open-source projects made by Filipino authors/maintainers. The goal of this list is to highlight awesome pinoy-made projects.
 
