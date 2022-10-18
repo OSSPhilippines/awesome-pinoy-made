@@ -44,6 +44,8 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
   - [Likha CMS](#likha-cms)
   - [Liso Password Manager (NexPass)](#liso-password-manager-nexpass)
   - [Simtex](#simtex)
+  - [react-native-rename](#react-native-rename)
+  - [MovieApp](#movieapp)
 
 ---
 
@@ -337,3 +339,18 @@ Convert your markdown or text files into LaTeX/pdf with one command! simtex (sim
 
 - [Github](https://github.com/iaacornus/simtex)
 - Author: [@iaacornus](https://github.com/iaacornus)
+
+## react-native-rename
+
+Rename react-native app with just one command
+- [Github](https://github.com/junedomingo/react-native-rename)
+- Author: [@junedomingo](https://github.com/junedomingo)
+- Twitter: [@junedomingo](https://twitter.com/junedomingo)
+
+
+## MovieApp
+
+Discover Movies and TV shows - React Native
+- [Github](https://github.com/junedomingo/movieapp)
+- Author: [@junedomingo](https://github.com/junedomingo)
+- Twitter: [@junedomingo](https://twitter.com/junedomingo)
