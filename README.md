@@ -46,6 +46,8 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
   - [Simtex](#simtex)
   - [react-native-rename](#react-native-rename)
   - [MovieApp](#movieapp)
+  - [tailwind-highlight.nvim](#tailwind-highlightnvim)
+  - [dir-telescope.nvim](#dir-telescopenvim)
 
 ---
 
@@ -354,3 +356,17 @@ Discover Movies and TV shows - React Native
 - [Github](https://github.com/junedomingo/movieapp)
 - Author: [@junedomingo](https://github.com/junedomingo)
 - Twitter: [@junedomingo](https://twitter.com/junedomingo)
+
+## tailwind-highlight.nvim
+
+Highlight Tailwind CSS classes in neovim
+- [Github](https://github.com/princejoogie/tailwind-highlight.nvim)
+- Author: [@princejoogie](https://github.com/princejoogie)
+- Twitter: [@princecaarlo](https://twitter.com/princecaarlo)
+
+## dir-telescope.nvim
+
+Perform telescope.nvim functions in a selected directory
+- [Github](https://github.com/princejoogie/dir-telescope.nvim)
+- Author: [@princejoogie](https://github.com/princejoogie)
+- Twitter: [@princecaarlo](https://twitter.com/princecaarlo)
