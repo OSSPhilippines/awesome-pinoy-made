@@ -46,8 +46,8 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
   - [Simtex](#simtex)
   - [react-native-rename](#react-native-rename)
   - [MovieApp](#movieapp)
-  - [tailwind-highlight.nvim](#tailwind-highlight.nvim)
-  - [dir-telescope.nvim](#dir-telescope.nvim)
+  - [tailwind-highlight.nvim](#tailwind-highlightnvim)
+  - [dir-telescope.nvim](#dir-telescopenvim)
 
 ---
 
