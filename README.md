@@ -48,6 +48,7 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
   - [MovieApp](#movieapp)
   - [tailwind-highlight.nvim](#tailwind-highlightnvim)
   - [dir-telescope.nvim](#dir-telescopenvim)
+  - [philippines-travel-level-map](#philippines-travel-level-map)
 
 ---
 
@@ -370,3 +371,10 @@ Perform telescope.nvim functions in a selected directory
 - [Github](https://github.com/princejoogie/dir-telescope.nvim)
 - Author: [@princejoogie](https://github.com/princejoogie)
 - Twitter: [@princecaarlo](https://twitter.com/princecaarlo)
+
+## philippines-travel-level-map
+
+Mark the places you've visited and see which other more you wanna go to!
+- [Github](https://github.com/OSSPhilippines/philippines-travel-level-map)
+- Author : [@denzdelvillar](https://github.com/denzdelvillar)
+- Twitter: [@denzvryan](https://twitter.com/denzvryan)
