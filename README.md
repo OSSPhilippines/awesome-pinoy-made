@@ -375,8 +375,8 @@ Perform telescope.nvim functions in a selected directory
 ## Philippines Travel Level Map
 
 Mark the places you've visited and see which other more you wanna go to!
-Visit [https://www.my-philippines-travel-level.com](https://www.my-philippines-travel-level.com).
 
+- [Website](https://www.my-philippines-travel-level.com)
 - [Github](https://github.com/OSSPhilippines/philippines-travel-level-map)
 - Author : [@denzdelvillar](https://github.com/denzdelvillar)
 - Twitter: [@denzvryan](https://twitter.com/denzvryan)
