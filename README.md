@@ -49,6 +49,7 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
   - [tailwind-highlight.nvim](#tailwind-highlightnvim)
   - [dir-telescope.nvim](#dir-telescopenvim)
   - [philippines-travel-level-map](#philippines-travel-level-map)
+  - [chatgpt-prompts](#chatgpt-prompts)
 
 ---
 
@@ -380,3 +381,10 @@ Mark the places you've visited and see which other more you wanna go to!
 - [Github](https://github.com/OSSPhilippines/philippines-travel-level-map)
 - Author : [@denzdelvillar](https://github.com/denzdelvillar)
 - Twitter: [@denzvryan](https://twitter.com/denzvryan)
+
+## chatgpt-prompts
+
+A collection of 140+ amazing and useful prompts for GPT-3
+
+- [Github](https://github.com/pacholoamit/chatgpt-prompts)
+- Author : [@pacholoamit](https://github.com/pacholoamit)
