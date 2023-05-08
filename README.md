@@ -388,3 +388,10 @@ A collection of 140+ amazing and useful prompts for GPT-3
 
 - [Github](https://github.com/pacholoamit/chatgpt-prompts)
 - Author : [@pacholoamit](https://github.com/pacholoamit)
+
+## pwy
+
+A simple weather information tool.
+
+- [GitHub](https://github.com/egargo/pwy.git)
+- Author: [@egargo](https://github.com/egargo)
