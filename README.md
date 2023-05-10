@@ -395,3 +395,11 @@ A simple weather information tool.
 
 - [GitHub](https://github.com/egargo/pwy.git)
 - Author: [@egargo](https://github.com/egargo)
+
+## chessu
+
+Online multiplayer Chess with Next.js, socket.io, and Express.
+
+- [Website](https://ches.su)
+- [GitHub](https://github.com/nizewn/chessu)
+- Author: [@nizewn](https://github.com/nizewn)
