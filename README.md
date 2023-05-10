@@ -50,6 +50,8 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
   - [dir-telescope.nvim](#dir-telescopenvim)
   - [philippines-travel-level-map](#philippines-travel-level-map)
   - [chatgpt-prompts](#chatgpt-prompts)
+  - [pwy](#pwy)
+  - [chessu](#chessu)
 
 ---
 
