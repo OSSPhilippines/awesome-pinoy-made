@@ -50,6 +50,8 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
   - [dir-telescope.nvim](#dir-telescopenvim)
   - [philippines-travel-level-map](#philippines-travel-level-map)
   - [chatgpt-prompts](#chatgpt-prompts)
+  - [pwy](#pwy)
+  - [chessu](#chessu)
 
 ---
 
@@ -395,3 +397,11 @@ A simple weather information tool.
 
 - [GitHub](https://github.com/egargo/pwy.git)
 - Author: [@egargo](https://github.com/egargo)
+
+## chessu
+
+Online multiplayer Chess with Next.js, socket.io, and Express.
+
+- [Website](https://ches.su)
+- [GitHub](https://github.com/nizewn/chessu)
+- Author: [@nizewn](https://github.com/nizewn)
