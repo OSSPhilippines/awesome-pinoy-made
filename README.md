@@ -55,6 +55,7 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
   - [chatgpt-prompts](#chatgpt-prompts)
   - [pwy](#pwy)
   - [chessu](#chessu)
+  - [Faker.js UI)[faker-js-ui]
 
 ---
 
@@ -408,3 +409,12 @@ Online multiplayer Chess with Next.js, socket.io, and Express.
 - [Website](https://ches.su)
 - [GitHub](https://github.com/nizewn/chessu)
 - Author: [@nizewn](https://github.com/nizewn)
+
+## Faker JS UI
+
+A simple and intuitive UI for Faker.js
+
+- [Website](https://fakerjsui.com)
+- [GitHub](https://github.com/jofftiquez/faker-js-ui)
+- Author: [@jofftiquez](https://github.com/jofftiquez)
+
