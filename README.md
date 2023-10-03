@@ -55,7 +55,7 @@ A collection of libraries, and open-source projects made by Filipino authors/mai
   - [chatgpt-prompts](#chatgpt-prompts)
   - [pwy](#pwy)
   - [chessu](#chessu)
-  - [Faker.js UI)[faker-js-ui]
+  - [Faker.js UI](#faker-js-ui)
 
 ---
 
