@@ -3,7 +3,7 @@
 ![image](https://github.com/OSSPhilippines/awesome-pinoy-made/assets/8638243/2cc1e4ed-70fc-4c6f-8c20-55c7a93dd5c2)
 
 
-A collection of libraries, and open-source projects made by Filipino authors/maintainers. The goal of this list is to highlight awesome pinoy-made projects.
+A curated compilation of exceptional open-source projects crafted by talented Filipino authors and maintainers. This repository aims to showcase remarkable Pinoy-made projects spanning various domains and technologies, fostering appreciation and collaboration within the vibrant Filipino developer community.
 
 # Before you jump in:
 
