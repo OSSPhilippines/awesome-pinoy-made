@@ -56,6 +56,7 @@ A curated compilation of exceptional open-source projects crafted by talented Fi
   - [pwy](#pwy)
   - [chessu](#chessu)
   - [Faker.js UI](#faker-js-ui)
+  - [nvim-numbertoggle](#nvim-numbertoggle)
 
 ---
 
@@ -418,3 +419,9 @@ A simple and intuitive UI for Faker.js
 - [GitHub](https://github.com/jofftiquez/faker-js-ui)
 - Author: [@jofftiquez](https://github.com/jofftiquez)
 
+## nvim-numbertoggle
+
+Neovim plugin to automatically toggle between relative and absolute line numbers. Written in Lua.
+
+- [GitHub](https://github.com/sitiom/nvim-numbertoggle)
+- Author: [@sitiom](https://github.com/sitiom)
