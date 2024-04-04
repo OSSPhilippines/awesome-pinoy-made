@@ -57,7 +57,7 @@ A curated compilation of exceptional open-source projects crafted by talented Fi
   - [chessu](#chessu)
   - [Faker.js UI](#faker-js-ui)
   - [nvim-numbertoggle](#nvim-numbertoggle)
-
+  - [use-postal-ph](#use-postal-ph)
 ---
 
 ## Vue Stripe
@@ -425,3 +425,13 @@ Neovim plugin to automatically toggle between relative and absolute line numbers
 
 - [GitHub](https://github.com/sitiom/nvim-numbertoggle)
 - Author: [@sitiom](https://github.com/sitiom)
+
+## use-postal-ph
+
+This utility library is specifically designed for the Philippines, providing comprehensive information on postal
+codes,
+municipalities, locations, and regions. Moreover, searching within the library is case insensitive.
+
+- [Website](https://npmjs.com/package/use-postal-ph)
+- [GitHub](https://github.com/blckclov3r/use-postal-ph)
+- Author: [@blckclov3r](https://github.com/blckclov3r)
