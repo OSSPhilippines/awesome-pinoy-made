@@ -1,0 +1,1544 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "lastUpdated": "2024-01-01",
+    "totalProjects": 44,
+    "description": "A curated compilation of exceptional open-source projects crafted by talented Filipino authors and maintainers"
+  },
+  "projects": [
+    {
+      "id": "vue-stripe",
+      "name": "Vue Stripe",
+      "slug": "vue-stripe",
+      "description": "Stripe Checkout & Elements for Vue.js",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "library",
+      "tags": [
+        "vue",
+        "payment",
+        "stripe",
+        "javascript",
+        "frontend",
+        "checkout"
+      ],
+      "technologies": [
+        "Vue.js",
+        "JavaScript",
+        "Stripe API"
+      ],
+      "author": {
+        "name": "jofftiquez",
+        "github": "https://github.com/jofftiquez",
+        "twitter": "@jrtiquez"
+      },
+      "links": {
+        "website": "https://vuestripe.com",
+        "github": "https://github.com/vue-stripe/vue-stripe",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "paymongo-nodejs",
+      "name": "Paymongo Node.js",
+      "slug": "paymongo-nodejs",
+      "description": "A lighweight Node.js client for Paymongo API. As seen on Paymongo's community-made libraries",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "library",
+      "tags": [
+        "nodejs",
+        "payment",
+        "api-client",
+        "javascript",
+        "backend",
+        "paymongo"
+      ],
+      "technologies": [
+        "Node.js",
+        "JavaScript"
+      ],
+      "author": {
+        "name": "jofftiquez",
+        "github": "https://github.com/jofftiquez",
+        "twitter": "@jrtiquez"
+      },
+      "links": {
+        "website": "https://jofftiquez.github.io/paymongo/",
+        "github": "https://github.com/jofftiquez/paymongo",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "vue-html-to-paper",
+      "name": "Vue HTML To Paper",
+      "slug": "vue-html-to-paper",
+      "description": "Vue mixin for paper printing html elements",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "library",
+      "tags": [
+        "vue",
+        "printing",
+        "mixin",
+        "javascript",
+        "frontend",
+        "html"
+      ],
+      "technologies": [
+        "Vue.js",
+        "JavaScript"
+      ],
+      "author": {
+        "name": "MYCURE Inc.",
+        "github": null,
+        "twitter": "@mycureapp"
+      },
+      "links": {
+        "website": "https://mycurelabs.github.io/vue-html-to-paper/",
+        "github": "https://github.com/mycurelabs/vue-html-to-paper",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": "MYCURE Inc.",
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "vue-html2canvas",
+      "name": "Vue HTML 2 Canvas",
+      "slug": "vue-html2canvas",
+      "description": "Vue mixin for Html2Canvas",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "library",
+      "tags": [
+        "vue",
+        "canvas",
+        "mixin",
+        "javascript",
+        "frontend",
+        "screenshot"
+      ],
+      "technologies": [
+        "Vue.js",
+        "JavaScript",
+        "Html2Canvas"
+      ],
+      "author": {
+        "name": "MYCURE Inc.",
+        "github": null,
+        "twitter": "@mycureapp"
+      },
+      "links": {
+        "website": "https://github.com/mycurelabs/vue-html2canvas",
+        "github": "https://github.com/mycurelabs/vue-html2canvas",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": "MYCURE Inc.",
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "vue-wysiwyg",
+      "name": "Vue Wysiwyg",
+      "slug": "vue-wysiwyg",
+      "description": "A simple wysiwyg editor for Vue.js",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "library",
+      "tags": [
+        "vue",
+        "wysiwyg",
+        "editor",
+        "javascript",
+        "frontend",
+        "rich-text"
+      ],
+      "technologies": [
+        "Vue.js",
+        "JavaScript"
+      ],
+      "author": {
+        "name": "MYCURE Inc.",
+        "github": null,
+        "twitter": "@mycureapp"
+      },
+      "links": {
+        "website": "https://mycurelabs.github.io/vue-wysiwyg/",
+        "github": "https://github.com/mycurelabs/vue-wysiwyg",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": "MYCURE Inc.",
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "vue-jitsi-meet",
+      "name": "Vue Jitsi Meet",
+      "slug": "vue-jitsi-meet",
+      "description": "Vue component for Jitsi Meet Web Integration via IFrame",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "library",
+      "tags": [
+        "vue",
+        "video",
+        "conference",
+        "jitsi",
+        "javascript",
+        "frontend",
+        "webrtc"
+      ],
+      "technologies": [
+        "Vue.js",
+        "JavaScript",
+        "Jitsi Meet"
+      ],
+      "author": {
+        "name": "MYCURE Inc.",
+        "github": null,
+        "twitter": "@mycureapp"
+      },
+      "links": {
+        "website": "https://github.com/mycurelabs/vue-jitsi-meet",
+        "github": "https://github.com/mycurelabs/vue-jitsi-meet",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": "MYCURE Inc.",
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "vue-breathing-colors",
+      "name": "Vue Breathing Colors",
+      "slug": "vue-breathing-colors",
+      "description": "Vue Breathing Colors is a vue directive used to change background color of any component in a 'breathing like' manner",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "library",
+      "tags": [
+        "vue",
+        "animation",
+        "directive",
+        "javascript",
+        "frontend",
+        "ui"
+      ],
+      "technologies": [
+        "Vue.js",
+        "JavaScript"
+      ],
+      "author": {
+        "name": "MYCURE Inc.",
+        "github": null,
+        "twitter": "@mycureapp"
+      },
+      "links": {
+        "website": "https://mycurelabs.github.io/vue-breathing-colors",
+        "github": "https://github.com/mycurelabs/vue-breathing-colors",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": "MYCURE Inc.",
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "vue-morphling",
+      "name": "Vue Morphling",
+      "slug": "vue-morphling",
+      "description": "A collection of standard and custom VueJs filters and directives",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "library",
+      "tags": [
+        "vue",
+        "filters",
+        "directives",
+        "javascript",
+        "frontend",
+        "utilities"
+      ],
+      "technologies": [
+        "Vue.js",
+        "JavaScript"
+      ],
+      "author": {
+        "name": "jofftiquez",
+        "github": "https://github.com/jofftiquez",
+        "twitter": "@jrtiquez"
+      },
+      "links": {
+        "website": "https://jofftiquez.github.io/vue-morphling",
+        "github": "https://github.com/jofftiquez/vue-morphling",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "vue-croppie",
+      "name": "Vue Croppie",
+      "slug": "vue-croppie",
+      "description": "VueCroppie is a Vue 2 wrapper for Croppie, a beautiful photo cropping tool for Javascript",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "library",
+      "tags": [
+        "vue",
+        "image",
+        "cropping",
+        "javascript",
+        "frontend",
+        "photo-editing"
+      ],
+      "technologies": [
+        "Vue.js",
+        "JavaScript",
+        "Croppie"
+      ],
+      "author": {
+        "name": "jofftiquez",
+        "github": "https://github.com/jofftiquez",
+        "twitter": "@jrtiquez"
+      },
+      "links": {
+        "website": "https://jofftiquez.github.io/vue-croppie/",
+        "github": "https://github.com/jofftiquez/vue-croppie",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "vue-animate-css",
+      "name": "Vue Animate CSS",
+      "slug": "vue-animate-css",
+      "description": "The easiest to implement Vue directive for Animate.css",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "library",
+      "tags": [
+        "vue",
+        "animation",
+        "css",
+        "directive",
+        "javascript",
+        "frontend"
+      ],
+      "technologies": [
+        "Vue.js",
+        "JavaScript",
+        "Animate.css"
+      ],
+      "author": {
+        "name": "jofftiquez",
+        "github": "https://github.com/jofftiquez",
+        "twitter": "@jrtiquez"
+      },
+      "links": {
+        "website": "https://jofftiquez.github.io/v-animate-css/",
+        "github": "https://github.com/jofftiquez/v-animate-css",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "vue-image-fallback",
+      "name": "Vue Image Fallback",
+      "slug": "vue-image-fallback",
+      "description": "Vue image placeholder directive for broken images",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "library",
+      "tags": [
+        "vue",
+        "image",
+        "fallback",
+        "directive",
+        "javascript",
+        "frontend"
+      ],
+      "technologies": [
+        "Vue.js",
+        "JavaScript"
+      ],
+      "author": {
+        "name": "jofftiquez",
+        "github": "https://github.com/jofftiquez",
+        "twitter": "@jrtiquez"
+      },
+      "links": {
+        "website": "https://github.com/jofftiquez/v-img-fallback",
+        "github": "https://github.com/jofftiquez/v-img-fallback",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "vim-makery",
+      "name": "Vim Makery",
+      "slug": "vim-makery",
+      "description": "Vim plugin for the :make system, allowing you to run linters, build scripts, task runners, etc.",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "plugin",
+      "tags": [
+        "vim",
+        "editor",
+        "plugin",
+        "build",
+        "productivity"
+      ],
+      "technologies": [
+        "Vim Script"
+      ],
+      "author": {
+        "name": "igemnace",
+        "github": "https://github.com/igemnace",
+        "twitter": null
+      },
+      "links": {
+        "website": "https://github.com/igemnace/vim-makery",
+        "github": "https://github.com/igemnace/vim-makery",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "maya-js",
+      "name": "Maya Js",
+      "slug": "maya-js",
+      "description": "A simple Node.js framework for creating fast and scalable server-side applications",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "framework",
+      "tags": [
+        "nodejs",
+        "framework",
+        "backend",
+        "javascript",
+        "server",
+        "api"
+      ],
+      "technologies": [
+        "Node.js",
+        "JavaScript"
+      ],
+      "author": {
+        "name": "mackignacio",
+        "github": "https://github.com/mackignacio",
+        "twitter": "@IgnacioMack"
+      },
+      "links": {
+        "website": "https://github.com/mayajs/maya",
+        "github": "https://github.com/mayajs/maya",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "v-dashboard",
+      "name": "V Dashboard",
+      "slug": "v-dashboard",
+      "description": "Dashboard starter template built with Vite, Vue 3, Tailwind CSS and TypeScript",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "template",
+      "tags": [
+        "vue",
+        "vite",
+        "tailwindcss",
+        "typescript",
+        "dashboard",
+        "template",
+        "frontend"
+      ],
+      "technologies": [
+        "Vue.js",
+        "Vite",
+        "Tailwind CSS",
+        "TypeScript"
+      ],
+      "author": {
+        "name": "wobsoriano",
+        "github": "https://github.com/wobsoriano",
+        "twitter": "@wobsoriano"
+      },
+      "links": {
+        "website": "https://v-dashboard.vercel.app/",
+        "github": "https://github.com/wobsoriano/v-dashboard",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "covid3d",
+      "name": "COVID 3D",
+      "slug": "covid3d",
+      "description": "3D visualization of latest data regarding coronavirus cases with time travel",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "visualization",
+      "tags": [
+        "visualization",
+        "covid19",
+        "3d",
+        "data",
+        "javascript",
+        "webgl"
+      ],
+      "technologies": [
+        "JavaScript",
+        "WebGL",
+        "Three.js"
+      ],
+      "author": {
+        "name": "wobsoriano",
+        "github": "https://github.com/wobsoriano",
+        "twitter": "@wobsoriano"
+      },
+      "links": {
+        "website": "https://github.com/wobsoriano/covid3d",
+        "github": "https://github.com/wobsoriano/covid3d",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "sublime-semantic-highlighter",
+      "name": "Sublime Semantic Highlighter",
+      "slug": "sublime-semantic-highlighter",
+      "description": "Highlights similar variables on focus. Underlines variables with the same string",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "plugin",
+      "tags": [
+        "sublime",
+        "editor",
+        "plugin",
+        "highlighting",
+        "productivity"
+      ],
+      "technologies": [
+        "Python",
+        "Sublime Text"
+      ],
+      "author": {
+        "name": "kapitanluffy",
+        "github": "https://github.com/kapitanluffy",
+        "twitter": "@kapitanluffy"
+      },
+      "links": {
+        "website": "https://github.com/kapitanluffy/sublime-semantic-highlighter",
+        "github": "https://github.com/kapitanluffy/sublime-semantic-highlighter",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "puzzy-search",
+      "name": "Puzzy Search",
+      "slug": "puzzy-search",
+      "description": "Add google-like search and auto suggest (did you mean...)",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "library",
+      "tags": [
+        "search",
+        "autocomplete",
+        "javascript",
+        "fuzzy-search",
+        "suggestion"
+      ],
+      "technologies": [
+        "JavaScript"
+      ],
+      "author": {
+        "name": "trinly01",
+        "github": "https://github.com/trinly01",
+        "twitter": "@trinly01"
+      },
+      "links": {
+        "website": "https://github.com/trinly01/puzzy-search",
+        "github": "https://github.com/trinly01/puzzy-search",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "trin-db",
+      "name": "Trin DB",
+      "slug": "trin-db",
+      "description": "A fast RESTful persistent or in memory NoSQL database (18 KiB only!)",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "database",
+      "tags": [
+        "database",
+        "nosql",
+        "rest",
+        "javascript",
+        "lightweight",
+        "backend"
+      ],
+      "technologies": [
+        "JavaScript"
+      ],
+      "author": {
+        "name": "trinly01",
+        "github": "https://github.com/trinly01",
+        "twitter": "@trinly01"
+      },
+      "links": {
+        "website": "https://github.com/trinly01/TrinDB",
+        "github": "https://github.com/trinly01/TrinDB",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "ink-html",
+      "name": "Ink HTML",
+      "slug": "ink-html",
+      "description": "Prints a specific area/element of your html page for any frontend framework",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "library",
+      "tags": [
+        "printing",
+        "html",
+        "javascript",
+        "frontend",
+        "utilities"
+      ],
+      "technologies": [
+        "JavaScript"
+      ],
+      "author": {
+        "name": "trinly01",
+        "github": "https://github.com/trinly01",
+        "twitter": "@trinly01"
+      },
+      "links": {
+        "website": "https://github.com/trinly01/ink-html",
+        "github": "https://github.com/trinly01/ink-html",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "sentro",
+      "name": "Sentro",
+      "slug": "sentro",
+      "description": "A low-level SCSS library for building and managing token-driven design systems",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "library",
+      "tags": [
+        "scss",
+        "design-system",
+        "css",
+        "frontend",
+        "tokens",
+        "styling"
+      ],
+      "technologies": [
+        "SCSS",
+        "CSS"
+      ],
+      "author": {
+        "name": "MatteuSan",
+        "github": "https://matteusan.me",
+        "twitter": "@matteusan"
+      },
+      "links": {
+        "website": "https://docs.matteusan.me/docs/sentro",
+        "github": "https://github.com/MatteuSan/sentro",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "pyfyre",
+      "name": "PyFyre",
+      "slug": "pyfyre",
+      "description": "The first web frontend framework for building reactive static user interfaces on the web using Python",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "framework",
+      "tags": [
+        "python",
+        "frontend",
+        "framework",
+        "reactive",
+        "web"
+      ],
+      "technologies": [
+        "Python"
+      ],
+      "author": {
+        "name": "jabsborja",
+        "github": "https://jabezborja.ga",
+        "twitter": "@jabeztorre"
+      },
+      "links": {
+        "website": "https://pyfyre.netlify.app",
+        "github": "https://github.com/pyfyre/pyfyre",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "vex",
+      "name": "Vex",
+      "slug": "vex",
+      "description": "A simple yet modular web framework built for the V programming language",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "framework",
+      "tags": [
+        "v",
+        "framework",
+        "web",
+        "backend",
+        "modular"
+      ],
+      "technologies": [
+        "V"
+      ],
+      "author": {
+        "name": "nedpals",
+        "github": "https://github.com/nedpals",
+        "twitter": "@npned"
+      },
+      "links": {
+        "website": "https://nedpals.github.io/vex",
+        "github": "https://github.com/nedpals/vex",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "v-language-server",
+      "name": "V Language Server (VLS)",
+      "slug": "v-language-server",
+      "description": "A language server providing IDE-like features such autocompletion, formatting, and etc. for the V programming language",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "tool",
+      "tags": [
+        "v",
+        "language-server",
+        "ide",
+        "developer-tools",
+        "lsp"
+      ],
+      "technologies": [
+        "V",
+        "Language Server Protocol"
+      ],
+      "author": {
+        "name": "nedpals",
+        "github": "https://github.com/nedpals",
+        "twitter": "@npned"
+      },
+      "links": {
+        "website": null,
+        "github": "https://github.com/vlang/vls",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "esbuild-jest",
+      "name": "esbuild-jest",
+      "slug": "esbuild-jest",
+      "description": "A Jest transformer using esbuild",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "tool",
+      "tags": [
+        "jest",
+        "esbuild",
+        "testing",
+        "javascript",
+        "typescript",
+        "build-tools"
+      ],
+      "technologies": [
+        "JavaScript",
+        "TypeScript",
+        "esbuild",
+        "Jest"
+      ],
+      "author": {
+        "name": "aelbore",
+        "github": "https://github.com/aelbore",
+        "twitter": "@VirtualOverride"
+      },
+      "links": {
+        "website": null,
+        "github": "https://github.com/aelbore/esbuild-jest",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "minimalist-dev-portfolio",
+      "name": "minimalist-dev-portfolio",
+      "slug": "minimalist-dev-portfolio",
+      "description": "A minimalist portfolio template for Developers",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "template",
+      "tags": [
+        "portfolio",
+        "template",
+        "html",
+        "css",
+        "frontend",
+        "minimalist"
+      ],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "author": {
+        "name": "elwyn",
+        "github": "https://github.com/elwynynion",
+        "twitter": null
+      },
+      "links": {
+        "website": null,
+        "github": "https://github.com/elwynynion/Minimalist-Dev-Portfolio",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "flutter-country-code-picker",
+      "name": "Flutter Country Code Picker",
+      "slug": "flutter-country-code-picker",
+      "description": "A Flutter package for showing a modal that contains country dial code. The user can also search for the available codes and select right from the modal",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "library",
+      "tags": [
+        "flutter",
+        "dart",
+        "mobile",
+        "country-codes",
+        "ui-components"
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart"
+      ],
+      "author": {
+        "name": "fbuan",
+        "github": "https://github.com/fernan542",
+        "twitter": null
+      },
+      "links": {
+        "website": "https://pub.dev/packages/fl_country_code_picker",
+        "github": "https://github.com/fernan542/fl_country_code_picker",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "buymeacoffee-js",
+      "name": "BuyMeaCoffee.js",
+      "slug": "buymeacoffee-js",
+      "description": "Simple and lightweight community contributed JavaScript SDK for Buy Me a Coffee REST API",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "sdk",
+      "tags": [
+        "javascript",
+        "sdk",
+        "api",
+        "payment",
+        "buymeacoffee",
+        "donations"
+      ],
+      "technologies": [
+        "JavaScript"
+      ],
+      "author": {
+        "name": "warengonzaga",
+        "github": "https://github.com/warengonzaga",
+        "twitter": "@warengonzaga"
+      },
+      "links": {
+        "website": "https://buymeacoffee.js.org",
+        "github": "https://github.com/warengonzaga/buymeacoffee.js",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "gathertown-js",
+      "name": "GatherTown.js",
+      "slug": "gathertown-js",
+      "description": "Simple and lightweight community contributed JavaScript/Typescript SDK for Gather Town's HTTPS and WebSocket APIs",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "sdk",
+      "tags": [
+        "javascript",
+        "typescript",
+        "sdk",
+        "api",
+        "gathertown",
+        "websocket"
+      ],
+      "technologies": [
+        "JavaScript",
+        "TypeScript"
+      ],
+      "author": {
+        "name": "warengonzaga",
+        "github": "https://github.com/warengonzaga",
+        "twitter": "@warengonzaga"
+      },
+      "links": {
+        "website": "https://gathertown.js.org",
+        "github": "https://github.com/warengonzaga/gathertown.js",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "css-text-portrait-builder",
+      "name": "CSS Text Portrait Builder",
+      "slug": "css-text-portrait-builder",
+      "description": "A popular pure CSS text portrait builder for your loved ones",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "application",
+      "tags": [
+        "css",
+        "art",
+        "portrait",
+        "generator",
+        "creative",
+        "frontend"
+      ],
+      "technologies": [
+        "CSS",
+        "HTML",
+        "JavaScript"
+      ],
+      "author": {
+        "name": "warengonzaga",
+        "github": "https://github.com/warengonzaga",
+        "twitter": "@warengonzaga"
+      },
+      "links": {
+        "website": "https://css-text-portrait-builder.vercel.app/",
+        "github": "https://github.com/warengonzaga/css-text-portrait-builder",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "covid19-tracker-cli",
+      "name": "COVID19 Tracker CLI",
+      "slug": "covid19-tracker-cli",
+      "description": "A console-oriented COVID-19 tracker with real-time updates for your favorite terminal",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "tool",
+      "tags": [
+        "cli",
+        "covid19",
+        "tracker",
+        "terminal",
+        "nodejs",
+        "real-time"
+      ],
+      "technologies": [
+        "Node.js",
+        "JavaScript"
+      ],
+      "author": {
+        "name": "warengonzaga",
+        "github": "https://github.com/warengonzaga",
+        "twitter": "@warengonzaga"
+      },
+      "links": {
+        "website": "https://covid19-cli.wareneutron.com",
+        "github": "https://github.com/wareneutron/covid19-tracker-cli",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "likha-cms",
+      "name": "Likha CMS",
+      "slug": "likha-cms",
+      "description": "Add google-like search and auto suggest (did you mean...)",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "cms",
+      "tags": [
+        "cms",
+        "content-management",
+        "javascript",
+        "web"
+      ],
+      "technologies": [
+        "JavaScript"
+      ],
+      "author": {
+        "name": "trinly01",
+        "github": "https://github.com/trinly01",
+        "twitter": "@trinly01"
+      },
+      "links": {
+        "website": "https://likhacms.github.io/index.html#top",
+        "github": "https://github.com/likhaCMS",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "liso-password-manager",
+      "name": "Liso Password Manager (NexPass)",
+      "slug": "liso-password-manager",
+      "description": "Protect your valuable data from prying eyes. Liso's secure data vault is the perfect place to store passwords, files and any other information you need to keep safe",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "application",
+      "tags": [
+        "password-manager",
+        "security",
+        "encryption",
+        "vault",
+        "mobile",
+        "desktop"
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart"
+      ],
+      "author": {
+        "name": "oliverbytes",
+        "github": "https://github.com/oliverbytes",
+        "twitter": "@oliverbytes"
+      },
+      "links": {
+        "website": "https://liso.dev",
+        "github": "https://github.com/Liso-Vault/app",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "simtex",
+      "name": "Simtex",
+      "slug": "simtex",
+      "description": "Convert your markdown or text files into LaTeX/pdf with one command! simtex (simplified LaTeX) allows you to convert your mardown or text files into PDF using LaTeX with one command, configured with simple .json file",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "tool",
+      "tags": [
+        "latex",
+        "pdf",
+        "markdown",
+        "converter",
+        "cli",
+        "document-processing"
+      ],
+      "technologies": [
+        "Python",
+        "LaTeX"
+      ],
+      "author": {
+        "name": "iaacornus",
+        "github": "https://github.com/iaacornus",
+        "twitter": null
+      },
+      "links": {
+        "website": null,
+        "github": "https://github.com/iaacornus/simtex",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "react-native-rename",
+      "name": "react-native-rename",
+      "slug": "react-native-rename",
+      "description": "Rename react-native app with just one command",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "tool",
+      "tags": [
+        "react-native",
+        "cli",
+        "mobile",
+        "development-tools",
+        "renaming"
+      ],
+      "technologies": [
+        "JavaScript",
+        "React Native"
+      ],
+      "author": {
+        "name": "junedomingo",
+        "github": "https://github.com/junedomingo",
+        "twitter": "@junedomingo"
+      },
+      "links": {
+        "website": null,
+        "github": "https://github.com/junedomingo/react-native-rename",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "movieapp",
+      "name": "MovieApp",
+      "slug": "movieapp",
+      "description": "Discover Movies and TV shows - React Native",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "application",
+      "tags": [
+        "react-native",
+        "mobile",
+        "movies",
+        "entertainment",
+        "app"
+      ],
+      "technologies": [
+        "React Native",
+        "JavaScript"
+      ],
+      "author": {
+        "name": "junedomingo",
+        "github": "https://github.com/junedomingo",
+        "twitter": "@junedomingo"
+      },
+      "links": {
+        "website": null,
+        "github": "https://github.com/junedomingo/movieapp",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "tailwind-highlight-nvim",
+      "name": "tailwind-highlight.nvim",
+      "slug": "tailwind-highlight-nvim",
+      "description": "Highlight Tailwind CSS classes in neovim",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "plugin",
+      "tags": [
+        "neovim",
+        "tailwindcss",
+        "plugin",
+        "highlighting",
+        "editor",
+        "lua"
+      ],
+      "technologies": [
+        "Lua",
+        "Neovim"
+      ],
+      "author": {
+        "name": "princejoogie",
+        "github": "https://github.com/princejoogie",
+        "twitter": "@princecaarlo"
+      },
+      "links": {
+        "website": null,
+        "github": "https://github.com/princejoogie/tailwind-highlight.nvim",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "dir-telescope-nvim",
+      "name": "dir-telescope.nvim",
+      "slug": "dir-telescope-nvim",
+      "description": "Perform telescope.nvim functions in a selected directory",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "plugin",
+      "tags": [
+        "neovim",
+        "telescope",
+        "plugin",
+        "navigation",
+        "editor",
+        "lua"
+      ],
+      "technologies": [
+        "Lua",
+        "Neovim"
+      ],
+      "author": {
+        "name": "princejoogie",
+        "github": "https://github.com/princejoogie",
+        "twitter": "@princecaarlo"
+      },
+      "links": {
+        "website": null,
+        "github": "https://github.com/princejoogie/dir-telescope.nvim",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "philippines-travel-level-map",
+      "name": "Philippines Travel Level Map",
+      "slug": "philippines-travel-level-map",
+      "description": "Mark the places you've visited and see which other more you wanna go to!",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "application",
+      "tags": [
+        "map",
+        "travel",
+        "philippines",
+        "visualization",
+        "web",
+        "interactive"
+      ],
+      "technologies": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "author": {
+        "name": "denzdelvillar",
+        "github": "https://github.com/denzdelvillar",
+        "twitter": "@denzvryan"
+      },
+      "links": {
+        "website": "https://www.my-philippines-travel-level.com",
+        "github": "https://github.com/OSSPhilippines/philippines-travel-level-map",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "chatgpt-prompts",
+      "name": "chatgpt-prompts",
+      "slug": "chatgpt-prompts",
+      "description": "A collection of 140+ amazing and useful prompts for GPT-3",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "resource",
+      "tags": [
+        "chatgpt",
+        "prompts",
+        "ai",
+        "gpt-3",
+        "collection",
+        "resource"
+      ],
+      "technologies": [
+        "Markdown"
+      ],
+      "author": {
+        "name": "pacholoamit",
+        "github": "https://github.com/pacholoamit",
+        "twitter": null
+      },
+      "links": {
+        "website": null,
+        "github": "https://github.com/pacholoamit/chatgpt-prompts",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "pwy",
+      "name": "pwy",
+      "slug": "pwy",
+      "description": "A simple weather information tool",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "tool",
+      "tags": [
+        "cli",
+        "weather",
+        "tool",
+        "terminal",
+        "information"
+      ],
+      "technologies": [
+        "Unknown"
+      ],
+      "author": {
+        "name": "egargo",
+        "github": "https://github.com/egargo",
+        "twitter": null
+      },
+      "links": {
+        "website": null,
+        "github": "https://github.com/egargo/pwy.git",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "chessu",
+      "name": "chessu",
+      "slug": "chessu",
+      "description": "Online multiplayer Chess with Next.js, socket.io, and Express",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "application",
+      "tags": [
+        "chess",
+        "game",
+        "multiplayer",
+        "nextjs",
+        "socketio",
+        "express",
+        "web"
+      ],
+      "technologies": [
+        "Next.js",
+        "Socket.io",
+        "Express",
+        "JavaScript"
+      ],
+      "author": {
+        "name": "nizewn",
+        "github": "https://github.com/nizewn",
+        "twitter": null
+      },
+      "links": {
+        "website": "https://ches.su",
+        "github": "https://github.com/nizewn/chessu",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "faker-js-ui",
+      "name": "Faker JS UI",
+      "slug": "faker-js-ui",
+      "description": "A simple and intuitive UI for Faker.js",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "application",
+      "tags": [
+        "faker",
+        "ui",
+        "data-generation",
+        "testing",
+        "web",
+        "javascript"
+      ],
+      "technologies": [
+        "JavaScript",
+        "Faker.js"
+      ],
+      "author": {
+        "name": "jofftiquez",
+        "github": "https://github.com/jofftiquez",
+        "twitter": null
+      },
+      "links": {
+        "website": "https://fakerjsui.com",
+        "github": "https://github.com/jofftiquez/faker-js-ui",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "nvim-numbertoggle",
+      "name": "nvim-numbertoggle",
+      "slug": "nvim-numbertoggle",
+      "description": "Neovim plugin to automatically toggle between relative and absolute line numbers. Written in Lua",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "plugin",
+      "tags": [
+        "neovim",
+        "plugin",
+        "lua",
+        "editor",
+        "line-numbers",
+        "productivity"
+      ],
+      "technologies": [
+        "Lua",
+        "Neovim"
+      ],
+      "author": {
+        "name": "sitiom",
+        "github": "https://github.com/sitiom",
+        "twitter": null
+      },
+      "links": {
+        "website": null,
+        "github": "https://github.com/sitiom/nvim-numbertoggle",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "use-postal-ph",
+      "name": "use-postal-ph",
+      "slug": "use-postal-ph",
+      "description": "This utility library is specifically designed for the Philippines, providing comprehensive information on postal codes, municipalities, locations, and regions. Moreover, searching within the library is case insensitive",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "library",
+      "tags": [
+        "philippines",
+        "postal-codes",
+        "utilities",
+        "javascript",
+        "npm",
+        "location"
+      ],
+      "technologies": [
+        "JavaScript"
+      ],
+      "author": {
+        "name": "blckclov3r",
+        "github": "https://github.com/blckclov3r",
+        "twitter": null
+      },
+      "links": {
+        "website": "https://npmjs.com/package/use-postal-ph",
+        "github": "https://github.com/blckclov3r/use-postal-ph",
+        "npm": "https://npmjs.com/package/use-postal-ph",
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    }
+  ]
+}
