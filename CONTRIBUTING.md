@@ -22,7 +22,7 @@ There are no complicated rules, just follow the following:
 3. Your project doesn't have to be original, but it MUST NOT be plagiarized.
 4. Your project MUST NOT be a fork of an existing active project.
 5. The core maintainer/s is/are Filipino.
-6. To maintain high-quality projects in the list, your project must have at least 20 stars.
+6. To maintain high-quality projects in the list, ~~your project must have at least 20 stars.~~ We will review the projects thoroughly. 
 
 ## Data Format
 
