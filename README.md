@@ -58,6 +58,7 @@ A curated compilation of exceptional open-source projects crafted by talented Fi
   - [Faker.js UI](#faker-js-ui)
   - [nvim-numbertoggle](#nvim-numbertoggle)
   - [use-postal-ph](#use-postal-ph)
+  - [Leaves.PH](#leavesph)
 ---
 
 ## Vue Stripe
@@ -435,3 +436,11 @@ municipalities, locations, and regions. Moreover, searching within the library i
 - [Website](https://npmjs.com/package/use-postal-ph)
 - [GitHub](https://github.com/blckclov3r/use-postal-ph)
 - Author: [@blckclov3r](https://github.com/blckclov3r)
+
+## Leaves.PH
+
+An open-source interactive map of Metro Manila's tree canopy measured from Sentinel-2 satellite imagery, with annual per-LGU and per-barangay values from 2019 to 2026.
+
+- [Website](https://leaves.ph)
+- [GitHub](https://github.com/xmpuspus/leaves-ph)
+- Author: [@xmpuspus](https://github.com/xmpuspus)
