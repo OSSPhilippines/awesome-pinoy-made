@@ -2,7 +2,7 @@
   "metadata": {
     "version": "1.0.0",
     "lastUpdated": "2024-01-01",
-    "totalProjects": 44,
+    "totalProjects": 45,
     "description": "A curated compilation of exceptional open-source projects crafted by talented Filipino authors and maintainers"
   },
   "projects": [
@@ -1534,6 +1534,42 @@
         "website": "https://npmjs.com/package/use-postal-ph",
         "github": "https://github.com/blckclov3r/use-postal-ph",
         "npm": "https://npmjs.com/package/use-postal-ph",
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "dataviz-ph",
+      "name": "dataviz.ph",
+      "slug": "dataviz-ph",
+      "description": "Animated bubble, line, rank, and choropleth charts of Philippine public data: DPWH and PhilGEPS contract awards, GDP, and poverty across 81 provinces plus Metro Manila (2014 to 2024). A static ECharts site built from public records",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "visualization",
+      "tags": [
+        "philippines",
+        "data-visualization",
+        "civic-tech",
+        "open-data",
+        "government-spending",
+        "echarts"
+      ],
+      "technologies": [
+        "Python",
+        "Apache ECharts",
+        "JavaScript"
+      ],
+      "author": {
+        "name": "xmpuspus",
+        "github": "https://github.com/xmpuspus",
+        "twitter": null
+      },
+      "links": {
+        "website": "https://dataviz.ph",
+        "github": "https://github.com/xmpuspus/dataviz-ph",
+        "npm": null,
         "documentation": null
       },
       "organization": null,

@@ -58,6 +58,7 @@ A curated compilation of exceptional open-source projects crafted by talented Fi
   - [Faker.js UI](#faker-js-ui)
   - [nvim-numbertoggle](#nvim-numbertoggle)
   - [use-postal-ph](#use-postal-ph)
+  - [dataviz.ph](#datavizph)
 ---
 
 ## Vue Stripe
@@ -435,3 +436,11 @@ municipalities, locations, and regions. Moreover, searching within the library i
 - [Website](https://npmjs.com/package/use-postal-ph)
 - [GitHub](https://github.com/blckclov3r/use-postal-ph)
 - Author: [@blckclov3r](https://github.com/blckclov3r)
+
+## dataviz.ph
+
+Animated bubble, line, rank, and choropleth charts of Philippine public data: DPWH and PhilGEPS contract awards, GDP, and poverty across 81 provinces plus Metro Manila (2014 to 2024). A static ECharts site built from public records.
+
+- [Website](https://dataviz.ph)
+- [GitHub](https://github.com/xmpuspus/dataviz-ph)
+- Author: [@xmpuspus](https://github.com/xmpuspus)
