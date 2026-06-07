@@ -2,7 +2,7 @@
   "metadata": {
     "version": "1.0.0",
     "lastUpdated": "2024-01-01",
-    "totalProjects": 45,
+    "totalProjects": 46,
     "description": "A curated compilation of exceptional open-source projects crafted by talented Filipino authors and maintainers"
   },
   "projects": [
@@ -1534,6 +1534,42 @@
         "website": "https://npmjs.com/package/use-postal-ph",
         "github": "https://github.com/blckclov3r/use-postal-ph",
         "npm": "https://npmjs.com/package/use-postal-ph",
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "leaves-ph",
+      "name": "Leaves.PH",
+      "slug": "leaves-ph",
+      "description": "An open-source interactive map of Metro Manila's tree canopy measured from Sentinel-2 satellite imagery, with annual per-LGU and per-barangay values from 2019 to 2026.",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "visualization",
+      "tags": [
+        "philippines",
+        "remote-sensing",
+        "environment",
+        "geospatial",
+        "open-data"
+      ],
+      "technologies": [
+        "Next.js",
+        "Python",
+        "Sentinel-2",
+        "Google Earth Engine"
+      ],
+      "author": {
+        "name": "xmpuspus",
+        "github": "https://github.com/xmpuspus",
+        "twitter": null
+      },
+      "links": {
+        "website": "https://leaves.ph",
+        "github": "https://github.com/xmpuspus/leaves-ph",
+        "npm": null,
         "documentation": null
       },
       "organization": null,
