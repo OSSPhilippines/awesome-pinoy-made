@@ -1611,6 +1611,44 @@
       "organization": null,
       "addedDate": null,
       "stars": null
+    },
+    {
+      "id": "ditto",
+      "name": "ditto",
+      "slug": "ditto",
+      "description": "A system-wide ASCII keyboard visualizer and keycaster that mirrors your live keyboard inputs in real time, even when the terminal isn't in focus. It automatically syncs with your native terminal color scheme for seamless, interactive eye candy.",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "visualization",
+      "tags": [
+        "keyboard",
+        "keycast",
+        "ascii",
+        "tui",
+        "terminal",
+        "command-line",
+        "visualizer",
+        "rice"
+      ],
+      "technologies": [
+        "Go",
+        "Bubble Tea",
+        "Lipgloss"
+      ],
+      "author": {
+        "name": "arvingarciabtw",
+        "github": "https://github.com/arvingarciabtw",
+        "twitter": null
+      },
+      "links": {
+        "website": null,
+        "github": "https://github.com/arvingarciabtw/ditto",
+        "npm": null,
+        "documentation": null
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
     }
   ]
 }

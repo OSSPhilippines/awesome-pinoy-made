@@ -60,6 +60,7 @@ A curated compilation of exceptional open-source projects crafted by talented Fi
   - [use-postal-ph](#use-postal-ph)
   - [Leaves.PH](#leavesph)
   - [dataviz.ph](#datavizph)
+  - [ditto](#ditto)
 ---
 
 ## Vue Stripe
@@ -453,3 +454,10 @@ Animated bubble, line, rank, and choropleth charts of Philippine public data: DP
 - [Website](https://dataviz.ph)
 - [GitHub](https://github.com/xmpuspus/dataviz-ph)
 - Author: [@xmpuspus](https://github.com/xmpuspus)
+
+## ditto 
+
+A system-wide ASCII keyboard visualizer and keycaster that mirrors your live keyboard inputs in real time, even when the terminal isn't in focus. It automatically syncs with your native terminal color scheme for seamless, interactive eye candy.
+
+- [GitHub](https://github.com/arvingarciabtw/ditto)
+- Author: [@arvingarciabtw](https://github.com/arvingarciabtw)
