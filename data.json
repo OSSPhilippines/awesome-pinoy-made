@@ -2,7 +2,7 @@
   "metadata": {
     "version": "1.0.0",
     "lastUpdated": "2024-01-01",
-    "totalProjects": 46,
+    "totalProjects": 47,
     "description": "A curated compilation of exceptional open-source projects crafted by talented Filipino authors and maintainers"
   },
   "projects": [
@@ -1610,6 +1610,46 @@
       },
       "organization": null,
       "addedDate": null,
+      "stars": null
+    },
+    {
+      "id": "room-tba",
+      "name": "Room TBA",
+      "slug": "room-tba",
+      "description": "Open-source UPLB campus room and class schedule finder with OpenStreetMap directions, offline PWA cache, and in-app editor tools",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "application",
+      "tags": [
+        "uplb",
+        "campus",
+        "maps",
+        "education",
+        "pwa",
+        "astro",
+        "openstreetmap"
+      ],
+      "technologies": [
+        "Astro",
+        "Svelte",
+        "Bun",
+        "Drizzle",
+        "PostgreSQL",
+        "MapLibre"
+      ],
+      "author": {
+        "name": "uplbtools",
+        "github": "https://github.com/uplbtools",
+        "twitter": null
+      },
+      "links": {
+        "website": "https://room-tba.uplb.tools",
+        "github": "https://github.com/uplbtools/room-tba",
+        "npm": null,
+        "documentation": "https://github.com/uplbtools/room-tba/blob/main/README.md"
+      },
+      "organization": "uplbtools",
+      "addedDate": "2026-08-03",
       "stars": null
     }
   ]
