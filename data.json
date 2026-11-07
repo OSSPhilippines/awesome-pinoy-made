@@ -1611,6 +1611,31 @@
       "organization": null,
       "addedDate": null,
       "stars": null
+    },
+    {
+      "id": "pdfcn-vue",
+      "name": "pdfcn-vue",
+      "slug": "pdfcn-vue",
+      "description": "Vue components and document templates for building PDFs with Forme, installable through the shadcn-vue registry. A Vue port of pdfcn, with documentation, live PDF demos, and a theme builder.",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "library",
+      "tags": ["vue", "pdf", "components", "templates", "shadcn-vue"],
+      "technologies": ["Vue.js", "Nuxt", "Forme"],
+      "author": {
+        "name": "xcvzmoon",
+        "github": "https://github.com/xcvzmoon",
+        "twitter": null
+      },
+      "links": {
+        "website": "https://pdfcn-vue.vercel.app",
+        "github": "https://github.com/xcvzmoon/pdfcn-vue",
+        "npm": null,
+        "documentation": "https://pdfcn-vue.vercel.app"
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
     }
   ]
 }
