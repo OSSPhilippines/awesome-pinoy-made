@@ -1611,6 +1611,41 @@
       "organization": null,
       "addedDate": null,
       "stars": null
+    },
+    {
+      "id": "genbumppush",
+      "name": "genbumppush",
+      "slug": "genbumppush",
+      "description": "A release CLI for Conventional Commit repositories that bumps versions, generates changelogs, creates Git tags, and atomically pushes the release commit and tag.",
+      "iconUrl": null,
+      "bannerUrl": null,
+      "category": "tool",
+      "tags": [
+        "cli",
+        "releases",
+        "conventional-commits",
+        "semantic-versioning",
+        "changelog",
+        "git"
+      ],
+      "technologies": [
+        "TypeScript",
+        "Node.js"
+      ],
+      "author": {
+        "name": "xcvzmoon",
+        "github": "https://github.com/xcvzmoon",
+        "twitter": null
+      },
+      "links": {
+        "website": "https://npmx.dev/package/genbumppush",
+        "github": "https://github.com/xcvzmoon/genbumppush",
+        "npm": "https://www.npmjs.com/package/genbumppush",
+        "documentation": "https://github.com/xcvzmoon/genbumppush#readme"
+      },
+      "organization": null,
+      "addedDate": null,
+      "stars": null
     }
   ]
 }

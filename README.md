@@ -60,6 +60,7 @@ A curated compilation of exceptional open-source projects crafted by talented Fi
   - [use-postal-ph](#use-postal-ph)
   - [Leaves.PH](#leavesph)
   - [dataviz.ph](#datavizph)
+  - [genbumppush](#genbumppush)
 ---
 
 ## Vue Stripe
@@ -453,3 +454,11 @@ Animated bubble, line, rank, and choropleth charts of Philippine public data: DP
 - [Website](https://dataviz.ph)
 - [GitHub](https://github.com/xmpuspus/dataviz-ph)
 - Author: [@xmpuspus](https://github.com/xmpuspus)
+
+## genbumppush
+
+A release CLI for Conventional Commit repositories that bumps versions, generates changelogs, creates Git tags, and atomically pushes the release commit and tag.
+
+- [Website](https://npmx.dev/package/genbumppush)
+- [GitHub](https://github.com/xcvzmoon/genbumppush)
+- Author: [@xcvzmoon](https://github.com/xcvzmoon)
