@@ -60,6 +60,7 @@ A curated compilation of exceptional open-source projects crafted by talented Fi
   - [use-postal-ph](#use-postal-ph)
   - [Leaves.PH](#leavesph)
   - [dataviz.ph](#datavizph)
+  - [genbumppush](#genbumppush)
 ---
 - [Casama](#casama)
 
@@ -462,3 +463,11 @@ A platform for AI teammates ("bots") that each have memory you can read and edit
 - [Website](https://casama.ai)
 - [GitHub](https://github.com/casama-ai/casama)
 - Author: [@oliverbytes](https://github.com/oliverbytes)
+
+## genbumppush
+
+A release CLI for Conventional Commit repositories that bumps versions, generates changelogs, creates Git tags, and atomically pushes the release commit and tag.
+
+- [Website](https://npmx.dev/package/genbumppush)
+- [GitHub](https://github.com/xcvzmoon/genbumppush)
+- Author: [@xcvzmoon](https://github.com/xcvzmoon)
