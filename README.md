@@ -62,6 +62,7 @@ A curated compilation of exceptional open-source projects crafted by talented Fi
   - [dataviz.ph](#datavizph)
   - [genbumppush](#genbumppush)
 ---
+- [Casama](#casama)
 
 ## Vue Stripe
 
@@ -454,6 +455,14 @@ Animated bubble, line, rank, and choropleth charts of Philippine public data: DP
 - [Website](https://dataviz.ph)
 - [GitHub](https://github.com/xmpuspus/dataviz-ph)
 - Author: [@xmpuspus](https://github.com/xmpuspus)
+
+## Casama
+
+A platform for AI teammates ("bots") that each have memory you can read and edit, their own sandboxed Linux computer (shell, files, browser) you can watch and take over live, and approval rules on by default for risky actions. Apps, SDKs, CLI, computer image, egress proxy and safety rules are open source (AGPL-3.0 and Apache-2.0); runs on Casama Cloud (with a free plan) or self-hosted (free personal license, local models supported).
+
+- [Website](https://casama.ai)
+- [GitHub](https://github.com/casama-ai/casama)
+- Author: [@oliverbytes](https://github.com/oliverbytes)
 
 ## genbumppush
 

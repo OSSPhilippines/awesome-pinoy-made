@@ -1613,6 +1613,45 @@
       "stars": null
     },
     {
+      "id": "casama",
+      "name": "Casama",
+      "slug": "casama",
+      "description": "Platform for AI teammates with memory, their own sandboxed Linux computers, and approvals on by default. Open-source apps and safety rules; runs on Casama Cloud or self-hosted (free personal license).",
+      "iconUrl": "https://casama.ai/favicon.png",
+      "bannerUrl": "https://casama.ai/og-image.png",
+      "category": "application",
+      "tags": [
+        "ai-agents",
+        "self-hosted",
+        "open-source",
+        "automation",
+        "flutter",
+        "typescript",
+        "docker",
+        "mcp"
+      ],
+      "technologies": [
+        "Flutter",
+        "TypeScript",
+        "Supabase",
+        "Docker"
+      ],
+      "author": {
+        "name": "oliverbytes",
+        "github": "https://github.com/oliverbytes",
+        "twitter": null
+      },
+      "links": {
+        "website": "https://casama.ai",
+        "github": "https://github.com/casama-ai/casama",
+        "npm": "https://www.npmjs.com/package/@casama/mcp",
+        "documentation": "https://docs.casama.ai"
+      },
+      "organization": "Stackwares",
+      "addedDate": null,
+      "stars": null
+    },
+    {
       "id": "genbumppush",
       "name": "genbumppush",
       "slug": "genbumppush",
