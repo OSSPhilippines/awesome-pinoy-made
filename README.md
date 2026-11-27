@@ -59,6 +59,7 @@ A curated compilation of exceptional open-source projects crafted by talented Fi
   - [nvim-numbertoggle](#nvim-numbertoggle)
   - [use-postal-ph](#use-postal-ph)
   - [Leaves.PH](#leavesph)
+  - [pdfcn-vue](#pdfcn-vue)
   - [dataviz.ph](#datavizph)
 ---
 - [Casama](#casama)
@@ -454,6 +455,14 @@ Animated bubble, line, rank, and choropleth charts of Philippine public data: DP
 - [Website](https://dataviz.ph)
 - [GitHub](https://github.com/xmpuspus/dataviz-ph)
 - Author: [@xmpuspus](https://github.com/xmpuspus)
+
+## pdfcn-vue
+
+Vue components and document templates for building PDFs with Forme, installable through the shadcn-vue registry. A Vue port of pdfcn, with documentation, live PDF demos, and a theme builder.
+
+- [Website](https://pdfcn-vue.vercel.app)
+- [GitHub](https://github.com/xcvzmoon/pdfcn-vue)
+- Author: [@xcvzmoon](https://github.com/xcvzmoon)
 
 ## Casama
 
